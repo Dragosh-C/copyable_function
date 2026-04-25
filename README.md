@@ -1,4 +1,4 @@
-# beman.copyable\_function: A Beman Library Implementation of copyable_function 
+# beman.copyable\_function: A Beman Library Implementation of copyable_function
 
 **Implements**: [`copyable_function` (P2548)](https://wg21.link/P2548)
 
