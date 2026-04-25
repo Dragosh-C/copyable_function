@@ -8,8 +8,7 @@ struct Callable {
     int operator()() const noexcept { return 43; }
 };
 
-int main()
-{
+int main() {
     beman::copyable_function<int()> f(Callable{});
     int x = f();
     return 0;
