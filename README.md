@@ -1,4 +1,4 @@
-# beman.copyable\_function: A Beman Library Implementation of copyable_function ([P2548](https://wg21.link/P2548))
+# beman.copyable_function: A Beman Library Implementation of copyable_function ([P2548](https://wg21.link/P2548))
 
 <!--
 SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
@@ -17,7 +17,7 @@ the function signature R(Args...). The library conforms to the [The Beman Standa
 
 ## License
 
-beman.copyable\_function is licensed under the Apache License v2.0 with LLVM Exceptions.
+beman.copyable_function is licensed under the Apache License v2.0 with LLVM Exceptions.
 
 ## Usage
 
