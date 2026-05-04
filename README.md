@@ -16,7 +16,7 @@ the function signature R(Args...). The library conforms to the [The Beman Standa
 
 ## License
 
-beman.copyable_function is licensed under the Apache License v2.0 with LLVM Exceptions.
+`beman.copyable_function` is licensed under the Apache License v2.0 with LLVM Exceptions.
 
 ## Usage
 
