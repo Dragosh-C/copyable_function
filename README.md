@@ -1,4 +1,4 @@
-# beman.copyable\_function: A Beman Library Implementation of copyable_function
+# beman.copyable_function: A Beman Library Implementation of copyable_function
 
 
 <!--
