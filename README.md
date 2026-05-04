@@ -1,6 +1,5 @@
 # beman.copyable_function: A Beman Library Implementation of copyable_function
 
-
 <!--
 SPDX-License-Identifier: Apache-2.0 WITH LLVM-exception
 -->
